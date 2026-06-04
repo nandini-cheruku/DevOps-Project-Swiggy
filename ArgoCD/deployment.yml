@@ -23,7 +23,7 @@ spec:
 
       containers:
         - name: swiggy-app
-          image: ch0nandini/swiggy:latest
+          image: ch0nandini/prod-app:latest
           imagePullPolicy: Always
 
           ports:
